@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neuronalX
+- 👋 Hi, I’m Xavier Hinaut @neuronalX
 - 👀 I’m interested in Reservoir Computing, Computational Neuroscience, Songbird, Language Acquisition & Processing, RNNs, Cognitive Robotics, ...
 - 💞️ I’m looking to collaborate on RNNs, Language, fMRI, enaction
 - 📫 How to reach me firstname dot lastname at inria dot fr
