@@ -3,7 +3,8 @@
 - 💞️ I’m looking to collaborate on RNNs, Language, fMRI, enaction
 - 📫 How to reach me firstname dot lastname at inria dot fr
 
-- Interships are available here: https://github.com/neuronalX/internships
+- Interships are available: https://github.com/neuronalX/internships
+- PhDs and Postodc positions are available: https://github.com/neuronalX/phd-and-postdoc-positions
 
 <!---
 neuronalX/neuronalX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
